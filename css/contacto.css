@@ -1,0 +1,41 @@
+body{
+    background-color: #fbb819;
+    font-family: helvetica !important;
+  }
+  nav {
+    background-color: black;
+  }
+  nav a:hover{
+    background-color: gray;
+  }
+  .contacto .ubicacion{
+    background-color: #000000;
+    height: 100vh;
+  }
+  .contacto a{
+    text-decoration: none;
+    color: white;
+  }
+  .contacto a:hover{
+    color: #fbb819;
+  }
+  .contacto .form{
+    background-color: #fbb819; 
+  }
+  .contacto textarea {
+    resize: none;
+  }
+  .contacto .boton{
+    background-color: #11110f;
+    color: #fbb819;
+    border-radius: 1rem;
+  }
+  .contacto iframe{
+    width: 100%;
+    height: 200px;
+  }
+  
+  footer{
+    background-color: #000000;
+    box-sizing: border-box;
+  }
